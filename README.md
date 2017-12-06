@@ -3,6 +3,8 @@ AWS camera for developers. Setup, thoughts and experiments...
 
 ![Deeplens](images/camera.png "Box and camera")
 
+[✍ Steps to register camera with AWS](registration.md)
+
 # Video stream over SSH
 
 ```
